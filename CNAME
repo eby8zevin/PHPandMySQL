@@ -1,6 +1,6 @@
-> ;www.ahmadabuhasan.me.                     IN      A
+> www.ahmadabuhasan.me.                     IN      A
 > www.ahmadabuhasan.me.              3592    IN      CNAME   www.ahmadabuhasan.me.
-> eby8zevin.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+> eby8zevin.github.io.      43192   IN      CNAME    www.ahmadabuhasan.me .
 > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
 
 > ahmadabuhasan.me     3600    IN A     95.217.50.185

@@ -1,0 +1,19 @@
+{
+    "name": "ahmadabuhasan/php-mysql",
+    "description": "Course",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmadabuhasan\\PhpMysql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmad Abu Hasan",
+            "email": "ahmadabuhasan@mhs.stmik-yadika.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

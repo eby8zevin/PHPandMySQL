@@ -1,2 +1,7 @@
 <?php
-echo "Hello World!";
+require '../vendor/autoload.php';
+
+use App\Controllers\UserController;
+
+$user = new UserController;
+$user->index();
